@@ -2,8 +2,10 @@
 title: "Projects"
 ---
 
-## Project 1
+# Data Visualization
 
-## Project 2
+## [Project Title]
 
-## Project 3
+# Machine Learning
+
+## [Project Title]

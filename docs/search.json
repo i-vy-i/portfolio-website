@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html#project-title-1",
+    "href": "projects.html#project-title-1",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "[Project Title]",
+    "text": "[Project Title]"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Send a message! Whether you have questions or just want to say hello, feel free to contact me."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nemail\n\nThank you for visiting my website, and I look forward to connecting with you!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Introduction/Overview\n\n\nResume\n\n\nEducation\n\n\nCoursework\n\n\nSkills\n\n\nExperience\n\n\nProejcts"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Hello, I’m Ivy",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "About\n\n\nProjects\n\n\nContact\nThank you for visiting my website!"
   }
 ]

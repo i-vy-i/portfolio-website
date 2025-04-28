@@ -8,19 +8,28 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
     tools:
+      - icon: download
+        href: file:///C:/Users/vyeun/OneDrive/Documents/Ivy_Yeung_Resume.pdf
+      - icon: envelope
+        href: mailto:ivy_yeung1@baylor.edu
       - icon: linkedin
         href: https://www.linkedin.com/in/ivy-y/
       - icon: github
-        href: https://github.com/i-vy-i/portfolio-website
+        href: https://github.com/i-vy-i/
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2025, Ivy Yeung"
 
 format:
   html:
-    theme: brite
+    theme: lux
     toc: true
 
 editor: source
