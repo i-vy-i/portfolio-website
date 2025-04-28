@@ -1,6 +1,7 @@
 ---
 title: "Hello, I'm Ivy"
 ---
+This portfolio website is an ongoing project designed to showcase my work, skills, and experience. Currently, it's in the early stages, offering a simple outline of what's to come. Please check out my other social media [profiles](https://www.linkedin.com/in/ivy-y/) in the meantime, or [contact](mailto:ivy_yeung1@baylor.edu) me with any questions you may have.😊
 
 # About
 
